@@ -23,7 +23,6 @@ sha2 = "0.10"
 blake2 = "0.10"
 # for sinsemilla:
 group = "0.13"
-halo2 = "=0.1.0-beta.2"
 pasta_curves = "0.5"
 subtle = "2.3"
 random = {package = "rand", version = "0.8"}
